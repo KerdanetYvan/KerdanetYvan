@@ -1,7 +1,7 @@
 # Bonjour 👋, je suis Yvan KERDANET
 
 ### 🎯 En recherche d'une alternance pour **novembre 2026**
-**Mastère Tech Lead Cybersécurité & IA** chez Digital Campus — rythme alternance, démarrage **novembre 2026**.
+**Mastère Tech Lead Cybersécurité & IA** chez Digital Campus — rythme alternance : 4j entreprise, 1j formation, démarrage **novembre 2026**.
 
 > 💼 **Vous êtes une entreprise ?** Je suis ouvert aux échanges dès maintenant pour construire ensemble cette alternance de 2 ans.
 
